@@ -1,1 +1,10 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+    background: url(/home/sette94/Development/code/se-prep/phase-0-html-album-cover-lab/images/columbia-logo.png) no-repeat;
+
+  }
+
+#wall {
+  background: url(/home/sette94/Development/code/se-prep/phase-0-html-album-cover-lab/images/columbia-logo.png) no-repeat;
+}
